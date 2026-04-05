@@ -1,0 +1,12 @@
+===== FINAL EVALUATION METRICS =====
+
+Dice Score     : 0.600185
+IoU (Jaccard)  : 0.464592
+Precision      : 0.548140
+Recall         : 0.788968
+
+----- Pixel Statistics -----
+True Positives : 6861.75
+False Positives: 6032.25
+False Negatives: 1489.25
+True Negatives : 440272.75

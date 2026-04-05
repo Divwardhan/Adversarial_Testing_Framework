@@ -1,0 +1,55 @@
+2026-04-05 15:42:40,730 | Epoch 1/50 | Train Loss: 0.6820 | Test Loss: 0.7666 | Train Dice: 0.1174 | Test Dice: 0.0000
+2026-04-05 15:42:49,677 | Epoch 2/50 | Train Loss: 0.5953 | Test Loss: 0.6599 | Train Dice: 0.1265 | Test Dice: 0.0005
+2026-04-05 15:42:59,713 | Epoch 3/50 | Train Loss: 0.5488 | Test Loss: 0.6107 | Train Dice: 0.2397 | Test Dice: 0.1950
+2026-04-05 15:43:09,999 | Epoch 4/50 | Train Loss: 0.5278 | Test Loss: 0.6019 | Train Dice: 0.3041 | Test Dice: 0.2174
+2026-04-05 15:43:20,365 | Epoch 5/50 | Train Loss: 0.5091 | Test Loss: 0.5201 | Train Dice: 0.3502 | Test Dice: 0.3628
+2026-04-05 15:43:30,782 | Epoch 6/50 | Train Loss: 0.4956 | Test Loss: 0.5230 | Train Dice: 0.3952 | Test Dice: 0.3343
+2026-04-05 15:43:41,179 | Epoch 7/50 | Train Loss: 0.4852 | Test Loss: 0.5041 | Train Dice: 0.4041 | Test Dice: 0.4020
+2026-04-05 15:43:51,606 | Epoch 8/50 | Train Loss: 0.4751 | Test Loss: 0.4754 | Train Dice: 0.4331 | Test Dice: 0.4712
+2026-04-05 15:44:02,033 | Epoch 9/50 | Train Loss: 0.4703 | Test Loss: 0.4791 | Train Dice: 0.4276 | Test Dice: 0.3984
+2026-04-05 15:44:12,530 | Epoch 10/50 | Train Loss: 0.4621 | Test Loss: 0.4629 | Train Dice: 0.4302 | Test Dice: 0.3264
+2026-04-05 15:44:23,080 | Epoch 11/50 | Train Loss: 0.4545 | Test Loss: 0.4603 | Train Dice: 0.4433 | Test Dice: 0.4491
+2026-04-05 15:44:33,623 | Epoch 12/50 | Train Loss: 0.4454 | Test Loss: 0.4736 | Train Dice: 0.4720 | Test Dice: 0.3943
+2026-04-05 15:44:44,184 | Epoch 13/50 | Train Loss: 0.4392 | Test Loss: 0.4472 | Train Dice: 0.4672 | Test Dice: 0.4588
+2026-04-05 15:44:54,737 | Epoch 14/50 | Train Loss: 0.4339 | Test Loss: 0.4512 | Train Dice: 0.4869 | Test Dice: 0.4441
+2026-04-05 15:45:05,343 | Epoch 15/50 | Train Loss: 0.4272 | Test Loss: 0.4283 | Train Dice: 0.4783 | Test Dice: 0.4995
+2026-04-05 15:45:16,004 | Epoch 16/50 | Train Loss: 0.4227 | Test Loss: 0.4362 | Train Dice: 0.4848 | Test Dice: 0.4210
+2026-04-05 15:45:26,607 | Epoch 17/50 | Train Loss: 0.4195 | Test Loss: 0.4108 | Train Dice: 0.4747 | Test Dice: 0.4558
+2026-04-05 15:45:37,223 | Epoch 18/50 | Train Loss: 0.4130 | Test Loss: 0.4187 | Train Dice: 0.4917 | Test Dice: 0.5177
+2026-04-05 15:45:47,847 | Epoch 19/50 | Train Loss: 0.4073 | Test Loss: 0.4045 | Train Dice: 0.5078 | Test Dice: 0.5128
+2026-04-05 15:45:58,532 | Epoch 20/50 | Train Loss: 0.4017 | Test Loss: 0.4007 | Train Dice: 0.5126 | Test Dice: 0.5120
+2026-04-05 15:46:09,255 | Epoch 21/50 | Train Loss: 0.3960 | Test Loss: 0.3920 | Train Dice: 0.5167 | Test Dice: 0.5372
+2026-04-05 15:46:19,989 | Epoch 22/50 | Train Loss: 0.3914 | Test Loss: 0.3952 | Train Dice: 0.5231 | Test Dice: 0.5308
+2026-04-05 15:46:30,702 | Epoch 23/50 | Train Loss: 0.3873 | Test Loss: 0.3845 | Train Dice: 0.5328 | Test Dice: 0.5438
+2026-04-05 15:46:41,441 | Epoch 24/50 | Train Loss: 0.3825 | Test Loss: 0.4067 | Train Dice: 0.5305 | Test Dice: 0.4405
+2026-04-05 15:46:52,186 | Epoch 25/50 | Train Loss: 0.3780 | Test Loss: 0.3979 | Train Dice: 0.5391 | Test Dice: 0.4739
+2026-04-05 15:47:02,929 | Epoch 26/50 | Train Loss: 0.3728 | Test Loss: 0.3720 | Train Dice: 0.5466 | Test Dice: 0.5236
+2026-04-05 15:47:13,689 | Epoch 27/50 | Train Loss: 0.3694 | Test Loss: 0.3697 | Train Dice: 0.5473 | Test Dice: 0.5053
+2026-04-05 15:47:24,425 | Epoch 28/50 | Train Loss: 0.3672 | Test Loss: 0.3868 | Train Dice: 0.5381 | Test Dice: 0.4747
+2026-04-05 15:47:35,162 | Epoch 29/50 | Train Loss: 0.3610 | Test Loss: 0.3590 | Train Dice: 0.5566 | Test Dice: 0.5585
+2026-04-05 15:47:45,905 | Epoch 30/50 | Train Loss: 0.3580 | Test Loss: 0.3724 | Train Dice: 0.5460 | Test Dice: 0.5042
+2026-04-05 15:47:56,601 | Epoch 31/50 | Train Loss: 0.3543 | Test Loss: 0.3506 | Train Dice: 0.5520 | Test Dice: 0.5746
+2026-04-05 15:48:07,311 | Epoch 32/50 | Train Loss: 0.3514 | Test Loss: 0.3561 | Train Dice: 0.5576 | Test Dice: 0.5368
+2026-04-05 15:48:18,023 | Epoch 33/50 | Train Loss: 0.3465 | Test Loss: 0.3497 | Train Dice: 0.5717 | Test Dice: 0.5410
+2026-04-05 15:48:28,762 | Epoch 34/50 | Train Loss: 0.3410 | Test Loss: 0.3427 | Train Dice: 0.5791 | Test Dice: 0.5942
+2026-04-05 15:48:39,507 | Epoch 35/50 | Train Loss: 0.3394 | Test Loss: 0.3473 | Train Dice: 0.5775 | Test Dice: 0.5280
+2026-04-05 15:48:50,263 | Epoch 36/50 | Train Loss: 0.3339 | Test Loss: 0.3444 | Train Dice: 0.5822 | Test Dice: 0.4834
+2026-04-05 15:49:01,010 | Epoch 37/50 | Train Loss: 0.3318 | Test Loss: 0.3319 | Train Dice: 0.5733 | Test Dice: 0.5890
+2026-04-05 15:49:11,767 | Epoch 38/50 | Train Loss: 0.3291 | Test Loss: 0.4327 | Train Dice: 0.5741 | Test Dice: 0.3182
+2026-04-05 15:49:22,511 | Epoch 39/50 | Train Loss: 0.3253 | Test Loss: 0.3400 | Train Dice: 0.5792 | Test Dice: 0.4480
+2026-04-05 15:49:33,254 | Epoch 40/50 | Train Loss: 0.3203 | Test Loss: 0.3325 | Train Dice: 0.5972 | Test Dice: 0.5749
+2026-04-05 15:49:44,063 | Epoch 41/50 | Train Loss: 0.3179 | Test Loss: 0.3196 | Train Dice: 0.5979 | Test Dice: 0.5986
+2026-04-05 15:49:54,825 | Epoch 42/50 | Train Loss: 0.3131 | Test Loss: 0.3159 | Train Dice: 0.6177 | Test Dice: 0.6173
+2026-04-05 15:50:05,565 | Epoch 43/50 | Train Loss: 0.3112 | Test Loss: 0.3174 | Train Dice: 0.6249 | Test Dice: 0.5739
+2026-04-05 15:50:16,309 | Epoch 44/50 | Train Loss: 0.3095 | Test Loss: 0.3140 | Train Dice: 0.6328 | Test Dice: 0.6340
+2026-04-05 15:50:27,048 | Epoch 45/50 | Train Loss: 0.3075 | Test Loss: 0.3137 | Train Dice: 0.6317 | Test Dice: 0.6156
+2026-04-05 15:50:37,881 | Epoch 46/50 | Train Loss: 0.3048 | Test Loss: 0.3108 | Train Dice: 0.6305 | Test Dice: 0.6227
+2026-04-05 15:50:48,727 | Epoch 47/50 | Train Loss: 0.3047 | Test Loss: 0.3129 | Train Dice: 0.6301 | Test Dice: 0.5846
+2026-04-05 15:50:59,510 | Epoch 48/50 | Train Loss: 0.3039 | Test Loss: 0.3130 | Train Dice: 0.6191 | Test Dice: 0.5839
+2026-04-05 15:51:10,335 | Epoch 49/50 | Train Loss: 0.3020 | Test Loss: 0.3177 | Train Dice: 0.6209 | Test Dice: 0.5706
+2026-04-05 15:51:21,121 | Epoch 50/50 | Train Loss: 0.2982 | Test Loss: 0.3049 | Train Dice: 0.6454 | Test Dice: 0.6474
+2026-04-05 15:51:23,251 | Dice: 0.6002 | IoU: 0.4646 | Precision: 0.5481 | Recall: 0.7890
+2026-04-05 15:51:23,251 | 
+[FINAL] Dice: 0.6002
+2026-04-05 15:54:40,371 | Starting training...
+
