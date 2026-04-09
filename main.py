@@ -8,6 +8,7 @@ def parse_args():
 
     # 🔴 Dataset
     parser.add_argument("--dataset_path", type=str, required=True, help="Path to dataset")
+    parser.add_argument("--dataset_type", type=str, default="tumor", help="Dataset format: tumor, extracted, dicom, nifti")
 
     # 🔴 Model & Generator
     parser.add_argument("--model_type", type=str, default="Unet", help="Model type")
@@ -53,6 +54,7 @@ def main():
     # 🔴 Run framework
     model, generator = FrameworkRun(
         dataset_path=args.dataset_path,
+        dataset_type=args.dataset_type,
         model_type=args.model_type,
         gen_type=args.gen_type,
         device=args.device,
