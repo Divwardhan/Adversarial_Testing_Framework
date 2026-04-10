@@ -15,6 +15,7 @@ from utils.save import save_adv_samples
 
 def FrameworkRun(
     dataset_path,
+    dataset_type='tumor',
     model_type='Unet',
     gen_type='edge',
     device='cpu',
@@ -34,7 +35,7 @@ def FrameworkRun(
     device = torch.device(device)
 
     # 🔴 1. Load dataset
-    dataset = DatasetLoader(dataset_path, img_size=img_size, batch_size=batch_size , augment=True)
+    dataset = DatasetLoader(dataset_path, dataset_type=dataset_type, img_size=img_size, batch_size=batch_size, augment=True)
 
 
     # Train Test split

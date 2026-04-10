@@ -6,8 +6,10 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "matplotlib>=3.10.8",
+    "nibabel>=5.3.2",
     "numpy>=2.2.6",
-    "pillow>=12.2.0",
+    "pillow>=10.0.0",
+    "pydicom>=2.4.4",
     "torch<2.6",
     "torchmetrics>=1.9.0",
     "torchvision>=0.20.1",
